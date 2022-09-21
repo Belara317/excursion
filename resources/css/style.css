@@ -38,9 +38,17 @@ h2 {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+    font-size: 21px;
+    font-family: Verdana;
+    color: gray;
+}
+
 .image1{
   display: block;
   margin: auto;
+  width: 70%;
   
 }
 
@@ -49,4 +57,9 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     width: 30px;
+}
+
+.end-line {
+    text-align: right;
+    color: gray;
 }
