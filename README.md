@@ -1,11 +1,11 @@
 # Excursion
 
 ## Table of Contents:
-* Description
-* Technologies
-* Installation
-* Author
-* Contact
+* [Description](#Description)
+ * [Technologies](#Technologies-Used)
+ * [Installation](#Installation)
+ * [Author](#Author)
+ * [Contact](#Contact)
 
 ## Description
 n this project, you’ll create a web page which advertises a product called “Excursion.” You’ll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. You’ll be proud of yourself when it all comes together!
@@ -31,10 +31,9 @@ The web page we’ll build advertises a mobile app which helps users record and 
 * Navigate to the Git repository to view the deployed version of your project.
 
 ## Author
-Belara Hossain Mohammad
+Belara Hossain Mohammad as a Practice project from Codecademy
 
 ## Contact
 * Github: [Belara317](https://github.com/Belara317)
-* Email: [belara317@gmail.com]
 * LinkedIn: [belarahossainM](https://www.linkedin.com/in/belarahossainmohammad)
 
