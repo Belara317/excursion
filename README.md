@@ -31,7 +31,7 @@ The web page we’ll build advertises a mobile app which helps users record and 
 * Navigate to the Git repository to view the deployed version of your project.
 
 ## Author
-[Belara Hossain Mohammad](#Belara) as a Practice project from Codecademy
+Belara Hossain Mohammad as a Practice project from [Codecademy](https://www.codecademy.com/learn)
 
 ## Contact
 * Github: [Belara317](https://github.com/Belara317)
